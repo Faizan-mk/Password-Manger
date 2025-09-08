@@ -85,7 +85,9 @@ cd ..
 npm install
 npm run dev
 📸 Screenshots
-<img width="944" height="479" alt="image" src="https://github.com/user-attachments/assets/eec0aa21-53a5-4c42-bd0b-3eee8c446c69" />
+<img width="944" height="479" alt="Screenshot 2025-09-08 120801" src="https://github.com/user-attachments/assets/fa664377-6970-427d-8ae7-29874928b4aa" />
+
+
 
 
 🔮 Future Improvements
